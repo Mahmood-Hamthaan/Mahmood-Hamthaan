@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hamthaan.  
 - 👀 I’m interested in self-development and coding.  
-- 🌱 I’m currently learning coding at APIIT campus.  
+- 🌱 I’m currently pursuing a degree in Computer Science at APIIT campus.  
 - 💞️ I’m looking to collaborate on coding projects and self-improvement challenges.  
 - 📫 How to reach me:  
   - 📧 Email: [almhamthaan@gmail.com](mailto:almhamthaan@gmail.com)
